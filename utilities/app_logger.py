@@ -1,7 +1,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 
-path = "/home/charan/DATA/logs/deep_search.log"
+path = "/home/charan/DATA/logs/community_server.log"
 
 
 class AppLogger:
